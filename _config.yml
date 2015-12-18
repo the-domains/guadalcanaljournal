@@ -1,6 +1,6 @@
 name: guadalcanaljournal
 favicon: null
-layout_spectrum: 0.00086
+layout_spectrum: 0.75473
 typography_spectrum: 0.075697474880144
 title: Guadalcanal journal
 cta:
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.22435734793543816
+  brandStrength: 0.5
   lightness: 0.5682105158921331
   saturation: 0.9051722541917115
   rhythmicContrast: 0.2681759593542665
