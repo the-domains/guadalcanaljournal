@@ -1,0 +1,28 @@
+name: guadalcanaljournal
+favicon: null
+layout_spectrum: 0.9254682736936957
+typography_spectrum: 0.075697474880144
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22435734793543816
+  lightness: 0.5682105158921331
+  saturation: 0.9051722541917115
+  rhythmicContrast: 0.2681759593542665
+purpose: []
